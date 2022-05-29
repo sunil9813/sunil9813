@@ -43,4 +43,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 ### Example of Work
-<img src ="https://ibb.co/j3ttvWw" width:"256" >
+ 
+<p align="center">
+  <img src="https://ibb.co/j3ttvWw" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://ibb.co/j3ttvWw)" width="350" alt="accessibility text">
+</p>
