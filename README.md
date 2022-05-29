@@ -46,8 +46,6 @@
 
 ### Example of Work
 
-<p>
-<img src="https:![REACT JS](https://user-images.githubusercontent.com/67497228/170872763-a6c7f42f-506a-4740-b6a0-c60f4383df2e.gif)
-![animation](https://user-images.githubusercontent.com/67497228/170872765-61d3849b-eb74-4854-bb06-347764b8aac2.gif)
-//i.ibb.co/j3ttvWw/animation.gif" alt="animation" width="256" /> 
-<p/>
+![animation](https://user-images.githubusercontent.com/67497228/170872801-08ad2183-cd0f-4e55-9048-dda05feb68a8.gif)
+![REACT JS](https://user-images.githubusercontent.com/67497228/170872804-4588e97e-9628-40ea-b57c-ff07e5894e6f.gif)
+
