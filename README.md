@@ -47,5 +47,5 @@
 ### Example of Work
 
 <p>
-<a href="https://ibb.co/j3ttvWw"><img src="https://i.ibb.co/j3ttvWw/animation.gif" alt="animation" width="256"></a>
+<img src="https://i.ibb.co/j3ttvWw/animation.gif" alt="animation" width="256" /> 
 <p/>
