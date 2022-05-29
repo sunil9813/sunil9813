@@ -41,7 +41,7 @@
 <br />
 
 ### Example of Work :
-<img src ="file:///C:/Users/sunil/Downloads/Untitled%20design.gif" width="400px"  />
+<img src ="https://user-images.githubusercontent.com/67497228/170875693-ddaae788-f1c2-4b30-bfa2-bd97755a4805.gif"  />
 
 
-
+ 
