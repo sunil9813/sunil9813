@@ -39,6 +39,7 @@
 
 <br />
 <br />
-### Example of Work:
-<img src ="https://user-images.githubusercontent.com/67497228/170874022-58cf47e6-0f31-45e6-8580-e331c2119b6a.gif"  />
+
+### Example of Work :
+<img src ="https://user-images.githubusercontent.com/67497228/170874022-58cf47e6-0f31-45e6-8580-e331c2119b6a.gif" width="500px"  />
 
