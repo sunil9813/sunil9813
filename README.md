@@ -9,7 +9,6 @@
 - ⚡ Fun fact: ... I am Funny and I love to Code
 
 <br />
-<br />
 ### Connect with me:
 <p align="left">
 <a href="https://fb.com/gorkcoder484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
@@ -21,13 +20,11 @@
 
 
 <br />
- 
 ![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sunil9813&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  
-<br />
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -42,9 +39,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 
-
-<br />
-<br />
 <br />
 ### Example of Work:
 <img src ="https://user-images.githubusercontent.com/67497228/170872801-08ad2183-cd0f-4e55-9048-dda05feb68a8.gif" width="256"/>
