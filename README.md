@@ -10,14 +10,6 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/gorkcoder#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/gorkcoder#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sunil-bk-856b36231#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sunil-bk-856b36231#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/gorkcoder484#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/gorkcoder484#gh-dark-mode-only)
 
 ### Languages and Tools:
 
