@@ -28,9 +28,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
-
 <br />
-### Example of Work:
+##### Example of Work:
 <img src ="https://user-images.githubusercontent.com/67497228/170872801-08ad2183-cd0f-4e55-9048-dda05feb68a8.gif" width="256"/>
 <img src ="https://user-images.githubusercontent.com/67497228/170872804-4588e97e-9628-40ea-b57c-ff07e5894e6f.gif"/>
 
