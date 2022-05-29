@@ -8,14 +8,13 @@
 - 😄 Pronouns: ... YES
 - ⚡ Fun fact: ... I am Funny and I love to Code
 
-
+<br />
+<br />
 ### Connect with me:
 <p align="left">
 <a href="https://fb.com/gorkcoder484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://instagram.com/gorkcoder484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCEaZ92FpOJX4aSYLN9Evj5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gorkcoder" height="30" width="40" /></a>
-
-
 </p>
 
 
@@ -29,7 +28,7 @@
 
  
 <br />
-
+<br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -45,7 +44,8 @@
 
 
 <br />
-
+<br />
+<br />
 ### Example of Work:
 <img src ="https://user-images.githubusercontent.com/67497228/170872801-08ad2183-cd0f-4e55-9048-dda05feb68a8.gif" width="256"/>
 <img src ="https://user-images.githubusercontent.com/67497228/170872804-4588e97e-9628-40ea-b57c-ff07e5894e6f.gif"/>
