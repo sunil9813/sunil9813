@@ -8,7 +8,7 @@
 - 😄 Pronouns: ... YES
 - ⚡ Fun fact: ... I am Funny and I love to Code
 
-# 📊GitHub Stats :
+
 ![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sunil9813&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -39,6 +39,6 @@
 
 <br />
 <br />
-#### Example of Work:
+### Example of Work:
 <img src ="https://user-images.githubusercontent.com/67497228/170874022-58cf47e6-0f31-45e6-8580-e331c2119b6a.gif"  />
 
