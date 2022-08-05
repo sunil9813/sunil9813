@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on Youtube and Full Stack Developer
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Frontend Designer
+- 💬 Ask me about ... MERN
 - 😄 Pronouns: ... YES
 - ⚡ Fun fact: ... I am Funny and I love to Code
 
