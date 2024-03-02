@@ -1,12 +1,12 @@
  ### Hi 👋, I'm Sunil B.k 👋
 
 - 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
-- 🎨 Frontend: Strong in HTML5, CSS3, JavaScript, and React.js.
+- 🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
 - 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
 - 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
 - 📱 UI/UX: Familiar with Figma and Adobe XD for design.
 - 📝 Version Control: Git/GitHub proficiency.
-- ☁️ Deployment: Experienced in deploying on AWS, Heroku, and Netlify.
+- ☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.
 - ✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
 - 🔍 Problem-solving: Strong debugging skills.
 - 💬 Communication: Effective team collaboration.
