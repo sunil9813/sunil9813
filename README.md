@@ -1,8 +1,8 @@
  ### Hi 👋, I'm Sunil B.k 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
-- 🌱 I’m currently learning NodeJs and Express
-- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
+- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, NextJS, Material UI, Redux, REST API, NodeJs, Express, TypeScript, Mongodb and MYSQL 
+- 🌱 I’m currently learning AI 
+- 👯 I’m looking to collaborate on YouTube and Full Stack Developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... MERN
 - 😄 Pronouns: ... YES
