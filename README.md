@@ -1,12 +1,15 @@
  ### Hi 👋, I'm Sunil B.k 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, NextJS, Material UI, Redux, REST API, NodeJs, Express, TypeScript, Mongodb and MYSQL 
-- 🌱 I’m currently learning AI 
-- 👯 I’m looking to collaborate on YouTube and Full Stack Developer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... MERN
-- 😄 Pronouns: ... YES
-- ⚡ Fun fact: ... I am Funny and I love to Code
+- 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
+- 🎨 Frontend: Strong in HTML5, CSS3, JavaScript, and React.js.
+- 🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
+- 🔄 State Management: Knowledgeable in Redux for large-scale React applications.
+- 📱 UI/UX: Familiar with Figma and Adobe XD for design.
+- 📝 Version Control: Git/GitHub proficiency.
+- ☁️ Deployment: Experienced in deploying on AWS, Heroku, and Netlify.
+- ✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
+- 🔍 Problem-solving: Strong debugging skills.
+- 💬 Communication: Effective team collaboration.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=sunil9813&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
